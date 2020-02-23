@@ -1,5 +1,5 @@
 # euruka-server
-euruka-server
+eureka-server
 
 版本说明
 SC	      SB
