@@ -1,4 +1,4 @@
-# euruka-server
+# eureka-server
 eureka-server
 
 版本说明
