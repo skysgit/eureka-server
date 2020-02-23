@@ -1,6 +1,7 @@
-http请求地址和资源文件映射如下:
-/{application}/{profile}[/{label}]
-/{application}-{profile}.yml
-/{label}/{application}-{profile}.yml
-/{application}-{profile}.properties
-/{label}/{application}-{profile}.properties
+访问路径
+http://localhost:7082/
+
+
+默认eureka 空间地址
+http://${eureka.instance.hostname}:${server.port}/eureka/
+
